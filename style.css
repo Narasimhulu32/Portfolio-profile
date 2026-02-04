@@ -68,7 +68,7 @@ section {
 .project-card:hover { transform: translateY(-5px); }
 
 .btn {
-  color: skyblue;
+  color: blue;
   padding: 5px 5px;
   border-radius: 5px;
   text-decoration: none;
